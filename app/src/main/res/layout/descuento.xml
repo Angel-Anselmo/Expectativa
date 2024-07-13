@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_pensionado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/precione_si_es_pensionado" />
+
+    <Button
+        android:id="@+id/btn_jubilado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/precione_si_es_jubilado" />
+
+    <Button
+        android:id="@+id/btn_adulto_mayor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/precione_si_es_adulto_mayor" />
+
+    <Button
+        android:id="@+id/btn_atras"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/atras" />
+
+</LinearLayout>

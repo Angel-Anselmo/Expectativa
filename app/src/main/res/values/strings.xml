@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Expectativa_Alpha</string>
+    <string name="tramites">Tramites</string>
+    <string name="servicios">Servicios</string>
+    <string name="reportes">Reportes</string>
+    <string name="atras">Atras</string>
+    <string name="ingrese_su_curp_aqui">Ingrese su CURP aqui</string>
+    <string name="obtener_turno">Obtener turno</string>
+    <string name="volver">Atras</string>
+    <string name="presione_para_obtener_su_turno">Presione para obtener su turno</string>
+    <string name="precione_si_es_jubilado">Precione si es jubilado</string>
+    <string name="precione_si_es_pensionado">Precione si es pensionado</string>
+    <string name="precione_si_es_adulto_mayor">Precione si es adulto mayor</string>
+    <string name="atra">Atras</string>
+    <string name="usted_debe_550_pesos">Usted debe 550 pesos</string>
+    <string name="pagar">Pagar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="atr">Atras</string>
+    <string name="escriba_su_curp_aqui">Escriba su CURP aqui</string>
+    <string name="escribe_tu_reporte_aqui">Escribe tu reporte aqui</string>
+    <string name="enviar_reporte">Enviar Reporte</string>
+    <string name="at">Atras</string>
+    <string name="estado_de_cuenta">Estado de cuenta</string>
+    <string name="descuentos">Descuentos</string>
+    <string name="cola_virtual">Cola Virtual</string>
+    <string name="registro">Registro</string>
+    <string name="pagos">Pagos</string>
+    <string name="baja">Baja</string>
+    <string name="a">Atras</string>
+    <string name="darse_de_baja">Darse de baja</string>
+    <string name="ingrese_curp">ingrese_curp</string>
+</resources>
